@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+
+#company-information {
+    margin: 0 auto;
+    max-width: 500px;
+}
+
